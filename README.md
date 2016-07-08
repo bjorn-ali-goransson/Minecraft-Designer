@@ -5,4 +5,4 @@ Just a simplistic attempt at making a point-and-click Minecraft-like building ap
 
 Uses Minecraft tiles, Copyright Microsoft I guess.
 
-![Screenshot](blob/master/screenshot.png)
+![Screenshot](screenshot.png)
